@@ -43,7 +43,7 @@ Users can:
   * View probability score
   * Understand feature explanations
 
-🔗 Live App: https://gayathriramu-diabetes-prediction-app.streamlit.app/ 
+🔗 Live App: [https://gayathriramu-diabetes-prediction-app.streamlit.app/ ](https://early-diabetes-prediction-app-gayathriramu.streamlit.app/)
 
 **⚠️ Disclaimer**
 This tool is for educational purposes only and does not provide medical diagnosis.
