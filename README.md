@@ -9,7 +9,7 @@ The goal of this project is to create a seamless process for predicting diabetes
 
 ## Project Objectives
 
-<img width="512" height="650" alt="image" src="https://github.com/user-attachments/assets/99520cf8-bd61-4758-b9e3-77be50f5c460" />
+<img width="512" height="650" alt="image" src="https://github.com/user-attachments/assets/793ada3f-732a-458c-89bd-8940a704a143" />
 
 ## Dataset
 
