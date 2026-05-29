@@ -45,7 +45,7 @@ st.divider()
 
 # st.sidebar.write("**Model Accuracy:** 97.5%")  # Replace with your actual accuracy
 
-st.sidebar.markdown("[GitHub Repository](https://github.com/GayathriRamu)")
+st.sidebar.markdown("[GitHub Repository](https://github.com/GayathriRamu/Early-Diabetes-Prediction/tree/main)")
 
 # -----------------------------
 # Input Section (2 Columns)
