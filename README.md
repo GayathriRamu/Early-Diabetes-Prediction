@@ -45,5 +45,28 @@ Users can:
 
 🔗 Live App: [https://gayathriramu-diabetes-prediction-app.streamlit.app/ ](https://early-diabetes-prediction-app-gayathriramu.streamlit.app/)
 
+## Try it yourself!
+If you'd like to explore or modify this project, feel free to fork the repository and run it locally.
+- Clone the repository
+- Install dependencies
+- Run the application
+(The application will launch in your browser, allowing you to test predictions and explore the complete machine learning workflow.)
+
+**Fork the Project**
+
+If you'd like to build upon this work:
+
+- Fork the repository
+- Create your feature branch
+- Make your changes
+- Submit a pull request
+
+Contributions, suggestions, and improvements are welcome.
+
+
 **⚠️ Disclaimer**
 This tool is for educational purposes only and does not provide medical diagnosis.
+
+Author: Gayathri Ramu <br>
+Connect with me on https://www.linkedin.com/in/gayathri-ramu02/
+
