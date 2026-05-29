@@ -33,17 +33,17 @@ st.divider()
 # -----------------------------
 # Sidebar - About Section
 # -----------------------------
-st.sidebar.write("""
-This model was trained using:
-- 4 Machine Learning classifiers were trained and tested
-- The best performing model was selected based on accuracy.
-- StandardScaler
-- 8 clinical features
+# st.sidebar.write("""
+# This model was trained using:
+# - 4 Machine Learning classifiers were trained and tested
+# - The best performing model was selected based on accuracy.
+# - StandardScaler
+# - 8 clinical features
 
-The model predicts whether a patient is diabetic based on medical inputs.
-""")
+# The model predicts whether a patient is diabetic based on medical inputs.
+# """)
 
-st.sidebar.write("**Model Accuracy:** 97.5%")  # Replace with your actual accuracy
+# st.sidebar.write("**Model Accuracy:** 97.5%")  # Replace with your actual accuracy
 
 st.sidebar.markdown("[GitHub Repository](https://github.com/GayathriRamu)")
 
